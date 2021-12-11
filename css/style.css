@@ -161,3 +161,11 @@ header li:last-of-type{
 .events button {
     background-color: #C8C2C9
 }
+
+/* footer */
+.footer {
+    width: 94%; 
+    padding: 1% 3%; 
+    background-color: #58475B; 
+    margin: 0;
+}
