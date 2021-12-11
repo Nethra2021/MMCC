@@ -30,6 +30,7 @@ button{
     letter-spacing: 0.09em;
     padding: 10px;
     border-radius: 8px;
+    box-sizing: border-box;
 }
 
 /* navigation */
