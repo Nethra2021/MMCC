@@ -162,6 +162,15 @@ header li:last-of-type{
     background-color: #C8C2C9
 }
 
+.events p{
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.09em;
+    color: #000000
+}
 /* footer */
 .footer {
     width: 94%; 
@@ -169,3 +178,4 @@ header li:last-of-type{
     background-color: #58475B; 
     margin: 0;
 }
+
