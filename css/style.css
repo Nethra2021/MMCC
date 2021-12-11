@@ -111,7 +111,7 @@ header li:last-of-type{
     border: 20px solid white; 
     box-shadow: 3px 3px 20px black;
 }
-.service{
+.service {
     position: relative;
     margin-bottom: 112px;
 }
@@ -124,12 +124,40 @@ header li:last-of-type{
     padding-bottom: 112px;
 }
 
+/* service times */
+.servicetimes{
+    margin: 0 10%; 
+    display: flex; 
+    justify-content: space-between;
+}
+
 .servicetimes p {
-font-family: 'Mulish', sans-serif;
-font-style: normal;
-font-weight: 300;
-font-size: 22px;
-line-height: 120%;
-letter-spacing: 0.09em;
-color: #000000
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 120%;
+    letter-spacing: 0.09em;
+    color: #000000
+}
+
+/* events */
+.events {
+    width: 80%;
+    height: 100%;
+    background-color: #C8C2C9;
+    padding-top: 83px; 
+    margin-top: 112px; 
+    padding-left: 10%; 
+    padding-right: 10%;
+    padding-bottom: 112px;
+}
+
+.eventscontainer {
+    display: flex; 
+    justify-content:space-between;
+}
+
+.events button {
+    background-color: #C8C2C9
 }
